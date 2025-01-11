@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzoxs" alt="rzoxs" /></a> </p> -->
 
-- 🔭 I'm currently working on a secret project. **♾ I...**
+- 🔭 I'm currently working on a project. **♾ Infinite**
 
 - 👯 I'm currently studying to obtain a bachelor's degree. **Application Developer**
 
